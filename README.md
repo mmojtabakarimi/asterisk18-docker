@@ -1,0 +1,1 @@
+# asterisk18-docker
